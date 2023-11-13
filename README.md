@@ -41,5 +41,5 @@ docker swarm init
 ### 7. Seguido de ello realizamos:
 
 ```
-docker stack deploy -c docker_compose.yml parcial.
+docker stack deploy -c docker_compose.yml parcial
 ```
